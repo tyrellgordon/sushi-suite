@@ -1,6 +1,6 @@
 
 
-Welcome to Sushi Stuff our patented Sushi conveyor belt system!
+Welcome to Sushi Suite our patented Sushi conveyor belt system!
 
 
 ## Setup
